@@ -1,4 +1,4 @@
-# Tugas Besar Unity IF3210 2019/2020
+# Ninja vs Zombie // Tugas Besar Unity IF3210 2019/2020
 
 ## Developer
 - NIM   : 13517078
